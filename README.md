@@ -124,3 +124,9 @@ UrlTest  urlGetOrgDomainUrl_shouldReturnHttpsUrl  System.AssertException: Assert
 
 Total Test Time:  208.0
 ```
+
+
+
+Salesforce Case: 23044378
+\
+Salesforce Known Issue: https://success.salesforce.com/issues_view?id=a1p3A000001SHZQQA4
